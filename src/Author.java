@@ -27,6 +27,6 @@ public class Author  {
 
     @Override
     public String toString() {
-        return "Автор: " + this.authorFirstName + " " + this.authorSurName;
+        return "Автор: " + authorFirstName + " " + authorSurName;
     }
 }
